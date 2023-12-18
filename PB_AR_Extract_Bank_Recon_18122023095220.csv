@@ -1,0 +1,4 @@
+amount;rec_date;payment_ref;payer_acct_number;payer_name;currency_code;comments;customer_number;customer_name;receipt_number;company_code;company;pay_to_acct_num;remit_bank;payment_method;file_name;gl_account;object
+-1370;12703022355;95811078434;Snöfartsverket AS;NOK;;10030901267;SNØFARTSVERKET AS;01022023_10030901267_5346;1712;Posten Bring AS;60050561731;Nordea Internal;Imported Receipts;010223_000002_OEBS_KID.dat;192300;000000
+1370;12703022355;95811078434;Snöfartsverket AS;NOK;;10030901267;SNØFARTSVERKET AS;01022023_10030901267_5346;1712;Posten Bring AS;60050561731;Nordea Internal;Imported Receipts;010223_000002_OEBS_KID.dat;192300;000000
+1370;12703022355;95811078434;Snöfartsverket AS;NOK;;10030901267;SNØFARTSVERKET AS;01022023_10030901267_5346;1712;Posten Bring AS;60050561731;Nordea Internal;Imported Receipts;010223_000002_OEBS_KID.dat;192300;000000

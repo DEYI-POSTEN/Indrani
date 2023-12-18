@@ -1,0 +1,2 @@
+amount;payment_date;payment_ref;currency_code;remittance_msg;supplier_num;supplier_name;payment_number;company_code;company;pay_from_acct_num;remittance_bank;payment_method;gl_account;object
+-1291;01-FEB-23;26509866708;NOK;  ;10007336;CASH ON DELIVERY;3140523;1712;Posten Bring AS;60050582992;EFT;Nordea Internal;192800;000000
